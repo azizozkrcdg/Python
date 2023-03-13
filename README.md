@@ -1,1 +1,1 @@
-# Python---Gelecegi-Yazanlar
+# Python - Gelecegi Yazanlar

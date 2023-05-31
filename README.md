@@ -1,2 +1,2 @@
-# Python - Simple Codes
-# There are simple codes written in python in this area.
+# Python - Simple Projects
+# There are simple projects written in python in this area.

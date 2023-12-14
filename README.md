@@ -1,2 +1,3 @@
-# Python - Simple Projects
-# There are simple projects written in python in this area.
+# Python 
+- I am sharing the simple codes I wrote while learning the Python.
+
